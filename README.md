@@ -74,3 +74,9 @@ The original Colab script mixed shell commands, uploads, and training logic in o
 - Add experiment tracking (e.g., MLflow)
 - Add unit tests + GitHub Actions CI
 - Streamlit demo app
+
+- Model: MobileNetV2 (transfer learning), 70 classes
+
+Test Accuracy: 96.0%
+
+Test Loss: 0.192
